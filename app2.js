@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-//Add new feature - Button 
-=======
+//Remove new feature - Button 
 //Add new feature - form
->>>>>>> features
